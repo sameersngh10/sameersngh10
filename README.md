@@ -35,10 +35,4 @@
 
 <p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameersngh10&" alt="sameersngh10" /></p>
 
-<p align="right">
-  <img src="https://stats.quine.sh/RohanSrma/github?theme=light" width="400" />
-</p>
 
-<p align="left">
-  <img src="https://stats.quine.sh/RohanSrma/dependencies?theme=light" width="400" />
-</p>
