@@ -1,5 +1,7 @@
 # sameersngh10
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 👋 Hey, I'm Sameer Kumar Singh
 
 👀 I’m interested in coding and learning new stuff
