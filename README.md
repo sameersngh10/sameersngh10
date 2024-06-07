@@ -37,6 +37,6 @@
 
 <p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameersngh10&show_icons=true&locale=en" alt="sameersngh10" /></p>
 
-<p><br><img align="center" src="[(https://github-readme-stats.vercel.app/api?username=sameersngh10)](https://github.com/sameersngh10/github-readme-stats)" alt="sameersngh10" />  </p>
+<p><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameersngh10" alt="sameersngh10" />  </p>
 
 
