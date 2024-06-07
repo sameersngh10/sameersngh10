@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameersngh10&label=Profile%20views&color=0e75b6&style=flat" alt="sameersngh10" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -33,11 +33,11 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
- <p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameersngh10&show_icons=true&locale=en&layout=compact" alt="sameersngh10" /></p>
+ <p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameersngh10&show_icons=true&locale=en&layout=compact&theme=dark" alt="sameersngh10" /></p>
 
 <!-- <p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameersngh10&show_icons=true&locale=en" alt="sameersngh10" /></p> -->
 
-<p><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameersngh10&show_icons=true&theme=radical" alt="sameersngh10" />  </p>
+<p><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameersngh10&show_icons=true&theme=dark" alt="sameersngh10" />  </p>
 
-<p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameersngh10&show_icons=true&theme=radical" alt="sameersngh10" /> </p>
+<p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameersngh10&show_icons=true&theme=dark" alt="sameersngh10" /> </p>
 
