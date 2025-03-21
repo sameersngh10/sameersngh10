@@ -7,7 +7,7 @@
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Samyak137)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=sameersngh10)](https://github.com/ryo-ma/github-profile-trophy)-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=sameersngh10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sameersngh10&theme=onedark)](https://github.com/sameersngh10/github-profile-trophy)
 
 
 👋 Hey, I'm Sameer Kumar Singh
