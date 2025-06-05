@@ -8,7 +8,7 @@
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Samyak137)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=sameersngh10)](https://github.com/ryo-ma/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=sameersngh10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
